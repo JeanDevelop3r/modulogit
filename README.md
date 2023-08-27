@@ -1,3 +1,1 @@
-My first git system
-alterando o readme
-att
+Aprendendo sobre o GIT
