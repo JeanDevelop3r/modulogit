@@ -1,9 +1,10 @@
-<script>
-var str = 'Terminal Root';
+//<script>
+//var str = 'Terminal Root';
 
-if(str.match(/Root/)){
-  document.write('Encontrou');
-}else{
-	document.write('Palavra Não Encontrada');
-}
-</script>
+//if(str.match(/Root/)){
+ // document.write('Encontrou');
+//}else{
+ //document.write('Palavra Não Encontrada');
+//}
+//</script>
+
